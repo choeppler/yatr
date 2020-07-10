@@ -1,3 +1,3 @@
 # A Readme
 
-[test](<> "link to be added shortly")
+[test](README.md "link to be added shortly")
